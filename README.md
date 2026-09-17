@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data Analytics Portfolio
 Business-focused data analysis projects combining statistics, SQL, Python, Power BI and business intelligence.
 
 | Project | Business Question | Main Skills |
