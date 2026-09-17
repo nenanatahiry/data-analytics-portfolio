@@ -10,5 +10,5 @@ Business-focused data analysis projects combining statistics, SQL, Python, Power
 
 ## Tools
 
-Python · SQL · Power BI · Excel · Pandas · NumPy · Scikit-learn ·
-Statsmodels · DAX · Power Query
+Python · SQL · Power BI · Excel
+R · DAX · Power Query
